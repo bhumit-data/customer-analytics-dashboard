@@ -1,5 +1,5 @@
 # Customer Analytics Dashboard
-![Dashboard Screenshot](image-name.png)
+![Dashboard Screenshot](dashboard.png)
 ## Overview
 This project focuses on analyzing customer behavior and business performance using an interactive Power BI dashboard. The goal is to extract meaningful insights that help improve decision-making and customer retention.
 
